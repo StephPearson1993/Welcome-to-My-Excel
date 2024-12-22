@@ -1,6 +1,7 @@
 
 Here you will find an overview the data analysis activities I have completed in Excel.
 -----------------------------------
+[retail_sales_dataset_Master - Steph Pearson.xlsx](https://github.com/user-attachments/files/18223493/retail_sales_dataset_Master.-.Steph.Pearson.xlsx)
 
 This is where I completed tasks in Excel including in the first Sheet which include:
 In the sheet ‘Retail_sales_dataset’ add all available data between columns A –J into a ‘table’
