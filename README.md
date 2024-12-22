@@ -3,12 +3,12 @@ Here you will find an overview the data analysis activities I have completed in 
 -----------------------------------
 
 This is where I completed tasks in Excel including in the first Sheet which include:
-*  Formatting into a table 
-* 'Filter' function
-* 'SUM' function
-* 'AVERAGE' function
-
-    ![excel1](https://github.com/user-attachments/assets/0d7225f0-86eb-41d0-8948-b7966b4a79b1)
+In the sheet ‘Retail_sales_dataset’ add all available data between columns A –J into a ‘table’
+Using the ‘filter’ function, filter ‘Age’ to ‘largest to smallest’
+Using the ‘SUM’ function, show me the commission total in cell ‘Q7’
+Using the ‘AVERAGE’ function, show me the average commission in cell ‘Q8’
+![image](https://github.com/user-attachments/assets/94113a17-2641-4607-b55d-b8b5babc81b2)
+![excel1](https://github.com/user-attachments/assets/0d7225f0-86eb-41d0-8948-b7966b4a79b1)
 ![excel3](https://github.com/user-attachments/assets/fcb82934-4f92-4410-aef5-579792dc3a37)
 ![excel5](https://github.com/user-attachments/assets/da22eb4c-3840-41e4-8262-5045befffea2)
 ![sum fuction](https://github.com/user-attachments/assets/47962b7d-0666-4531-8759-e0406b39d99b)
