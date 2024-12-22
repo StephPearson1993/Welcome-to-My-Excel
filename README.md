@@ -7,6 +7,9 @@ This is where I completed tasks in Excel including in the first Sheet which incl
 * 'Filter' function
 * 'SUM' function
 * 'AVERAGE' function
+
+    ![excel1](https://github.com/user-attachments/assets/0d7225f0-86eb-41d0-8948-b7966b4a79b1)
+
 ---------------------------------------
   
    In sheet 2 i used 
