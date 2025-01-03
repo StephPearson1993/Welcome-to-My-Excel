@@ -1,4 +1,5 @@
 #  EXCEL #
+![excel logo](https://github.com/user-attachments/assets/971db566-a2a6-42ba-b6cf-43036179689a)
 
 ## Here you will find an overview the data analysis activities I have completed in Excel. ##
 
