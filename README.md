@@ -39,10 +39,21 @@ https://onedrive.live.com/personal/8f129ba638267611/_layouts/15/Doc.aspx?resid=8
 
 #  Dataset ‘Day_3_Task_1_Bike_Sales_Pivot_Lab 
 ## What are the most profitable markets by country, age group, and gender? 
-
 Adults (35-64) females in the United States 
-
-2
-
 # What country has sales in all markets? 
 ## Australia 
+![Pivot Table 2](https://github.com/user-attachments/assets/4e6255f3-105a-4618-9b70-e3105b1af1c2)
+Visualisation
+
+
+![task 2 info](https://github.com/user-attachments/assets/1c1abba3-f70e-4928-bcaf-393de1d03aae)
+
+![exceltask2 4png](https://github.com/user-attachments/assets/3875fd3c-4706-4ce6-a1ae-d6ac5b203500)
+
+![exceltask2 5](https://github.com/user-attachments/assets/4ed404a0-278d-4ca2-88d5-016190d9a25b)
+
+![exceltask2 7](https://github.com/user-attachments/assets/1f136b8f-79e8-4cd6-9a12-5ccf63f44234)
+
+
+
+
