@@ -44,6 +44,8 @@ Adults (35-64) females in the United States
 ## Australia 
 ![Pivot Table 2](https://github.com/user-attachments/assets/4e6255f3-105a-4618-9b70-e3105b1af1c2)
 Visualisation
+![excel chart](https://github.com/user-attachments/assets/5b212fb1-ebea-4666-b7d4-13a395209aa0)
+# Day 3 Task 2
 
 
 ![task 2 info](https://github.com/user-attachments/assets/1c1abba3-f70e-4928-bcaf-393de1d03aae)
@@ -53,6 +55,7 @@ Visualisation
 ![exceltask2 5](https://github.com/user-attachments/assets/4ed404a0-278d-4ca2-88d5-016190d9a25b)
 
 ![exceltask2 7](https://github.com/user-attachments/assets/1f136b8f-79e8-4cd6-9a12-5ccf63f44234)
+
 
 
 
